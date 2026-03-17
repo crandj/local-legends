@@ -158,25 +158,25 @@ a.email-link:active {
 
 
 
-a.link:link {
+a.link:{
     color: rgb(17, 96, 89);
     background-color: transparent;
     text-decoration: none;
 }
 
-a.link:visited {
+a.visited {
     color: rgb(52, 50, 83);
     background-color: transparent;
     text-decoration: none;
 }
 
-a.link:hover {
+a.hover {
     color: rgb(135, 170, 220);
     background-color: transparent;
     text-decoration: underline;
 }
 
-a.link:active {
+a.active {
     color: rgb(0, 174, 255);
     background-color: transparent;
     text-decoration: underline;
